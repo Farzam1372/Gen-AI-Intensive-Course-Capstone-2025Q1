@@ -116,10 +116,5 @@ pip install -r requirements.txt
 
 Farzam Nazari
 Machine Learning Engineer | Supply Chain Optimization Enthusiast
-LinkedIn
- | GitHub
----
 
-
-Let me know if you'd like the `requirements.txt` or want this `README.md` saved as a downloadable file.
 
